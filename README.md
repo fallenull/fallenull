@@ -1,2 +1,3 @@
-- 👋 Hi, I’m @fallenull
-Music production, IT engineering, Memology | https://lmbf.ru
+👋 Hi, I’m @fallenull
+
+Shorly: Music production, IT engineering, Memology | https://lmbf.ru
