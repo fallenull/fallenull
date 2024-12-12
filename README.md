@@ -1,3 +1,5 @@
 👋 Hi, I’m @fallenull
 
-Shortly: SysOps, Music Production and cyber-fun | http://lmbf.ru
+My preffered stack: freebsd, aarch64, C, ANSI Common Lisp or ELisp.
+My socials: look at left side of screen.
+I am a musician, sysops, newbie developer
